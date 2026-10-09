@@ -2,7 +2,7 @@
 
 ## Říjen
 
-### 2.10.2025
+### 2.10.2026
 
 - byl tu jen Dan
 - tvoříme program s kocourem a bleskem
