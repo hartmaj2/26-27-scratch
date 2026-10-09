@@ -23,8 +23,14 @@
     - detekce doteku hráčovy postavy (blok nebo)
     - čekání náhodnou dobu (náhodné číslo od ... do ...)
     - nastavení počáteční pozice virů
+  - změna pozadí
 
 - Dan
   - přidání obrázků do hry
   - přidání animací kopání a úderů
   - přidání proměnných na životy
+
+- příště
+  - přidání bodů do hry
+  - objevování virů v náhodné výšce
+  - skrýt a ukázat viry (ať jen tak nesedí na okraji obrazovky)
