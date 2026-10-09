@@ -14,3 +14,17 @@
   - vysílání zpráv
   - skryj se, ukaž se
   
+### 9.10.2026
+
+- Pepa
+  - pohyb kocoura nahoru dolu (vysvětlení souřadnic)
+  - přidání nepřátelských virů
+    - detekce doteku okraje
+    - detekce doteku hráčovy postavy (blok nebo)
+    - čekání náhodnou dobu (náhodné číslo od ... do ...)
+    - nastavení počáteční pozice virů
+
+- Dan
+  - přidání obrázků do hry
+  - přidání animací kopání a úderů
+  - přidání proměnných na životy
