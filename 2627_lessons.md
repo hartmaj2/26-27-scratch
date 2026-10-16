@@ -35,3 +35,19 @@
   - objevování virů v náhodné výšce
   - skrýt a ukázat viry (ať jen tak nesedí na okraji obrazovky)
   - rychlejší pohyb kocoura
+
+### 16.10.2026
+
+- Pepa
+  - plynulejší chození
+  - skóre
+  - zvuky
+  - lepší konec hry
+
+- Dan
+  - střelba kuliček
+  - oprava životů
+  - útok nepřítele
+
+- příště
+  - program bludiště?
