@@ -34,3 +34,4 @@
   - přidání bodů do hry
   - objevování virů v náhodné výšce
   - skrýt a ukázat viry (ať jen tak nesedí na okraji obrazovky)
+  - rychlejší pohyb kocoura
