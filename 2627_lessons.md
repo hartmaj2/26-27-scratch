@@ -51,3 +51,18 @@
 
 - příště
   - program bludiště?
+
+## 23.10.2026
+
+- doděláváme Danovu hru
+  - vítězná obrazovka / porážková obrazovka
+
+- začínáme pracovat na bludišti
+  - generujeme bludiště a přidáváme ho do scény
+  - pohyb kocoura - vysvětlujeme si souřadnice
+  - přidáváme bonusy, které po sebrání dají xp
+  - začínáme programovat kolize se stěnou
+
+- příště
+  - naprogramovat kolize se stěnou
+  - vymyslet logiku prorážení dveří, když máme dost xp
