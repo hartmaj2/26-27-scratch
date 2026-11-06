@@ -66,3 +66,13 @@
 - příště
   - naprogramovat kolize se stěnou
   - vymyslet logiku prorážení dveří, když máme dost xp
+
+## 6.11.2026
+
+- mizící dveře, když máme dost xp
+  - zprávy
+- měníme kostýmy dle xp
+
+- příště
+  - end game screen
+  - dát výtvory do studia
