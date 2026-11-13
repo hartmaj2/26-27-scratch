@@ -76,3 +76,10 @@
 - příště
   - end game screen
   - dát výtvory do studia
+
+## 13.11.2026
+
+- doděláváme hru s bludištěm
+  - přidáváme draka jako hlavního nepřítele
+  - vítězná finální obrazovka
+- ukazujeme si pohádkový program na příště
